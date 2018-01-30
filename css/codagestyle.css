@@ -1,0 +1,82 @@
+@import url("components/avatars.css");
+@import url("components/cadre.css");
+@import url("components/buttons.css");
+
+h1 {
+
+  color: #85B8A5;
+
+  font-size: 30px;
+
+  font-family: 'Indie Flower', cursive;
+}
+.cadre {
+
+  background-color: white;
+
+  text-align: center;
+
+  margin-top: 70px;
+
+  margin-right:130px;
+
+  margin-bottom: : 70px;
+
+  margin-left: 130px;
+
+  border: solid 5px #FFC400;
+
+  border-radius: 10px;
+
+  /*margin: 70px 130px 70px 130px;*/
+
+  padding: 50px;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+body {
+
+  background-color: red;
+
+  font-family: 'Lato', sans-serif;
+
+}
+
+/*p {
+
+  font-weight: bold;
+
+}*/
+#avatar {
+
+  width: 100px;
+
+}
+
+.network {
+
+  width: 50px;
+
+}
+
+#abstract {
+
+  font-weight: bold;
+
+}
+
+.icon-network {
+	font-size: 70px;
+	color: red;
+}
+
+
+.shadow {
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
